@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @shivangipokhriyal
-- 👀 I’m interested in datascience, machine learning and analytics.
+- 👀 I’m interested in datascience, machine learning, iot and analytics.
 - 🌱 I’m currently learning datascience and nlp.
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on DS/ML projects.
 - 📫 How to reach me ...
 
 <!---
